@@ -1,0 +1,3 @@
+Trước tiên, nếu bạn chưa có các thư viện matplotlib và numpy, hãy cài đặt chúng bằng lệnh:
+
+pip install matplotlib numpy
